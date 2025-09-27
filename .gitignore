@@ -1,0 +1,14 @@
+*.o
+*.ko
+*.mod.c
+*.order
+*.symvers
+*.dwo
+*.tmp
+.tmp*
+vmlinux
+vmlinux.*
+
+arch/x86/boot/bzImage
+modules.order
+Module.symvers
